@@ -209,8 +209,6 @@ g_male.fig.suptitle("Male")
 plt.show()
 
 
-# In[ ]:
-
 
 
 
